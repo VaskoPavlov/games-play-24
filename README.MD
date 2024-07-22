@@ -8,10 +8,10 @@ SoftUni React Project (workshop)
  - [x] Clean up client
  - [x] Add project resources
  - [x] Convert HTML to JSX
- - [ ] Separate HTML into components
+ - [x] Separate HTML into components
 ## 2. Router
- - [ ] Install react-router-dom
- - [ ] Setup react-router-dom
+ - [x] Install react-router-dom
+ - [x] Setup react-router-dom
  - [ ] Add routes in App.jsx
    - [ ] 
 
