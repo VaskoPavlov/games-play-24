@@ -14,4 +14,9 @@ SoftUni React Project (workshop)
  - [x] Setup react-router-dom
  - [x] Add routes in App.jsx
  - [x] Add link in the navigarion
+## 3. Create Service Layer
+ - [x] Service layer architecture
+ - [x] Abstract requester
+## 4. Page Implementation
+ - [ ] Game List
 
