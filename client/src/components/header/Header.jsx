@@ -3,16 +3,16 @@ import { Link } from "react-router-dom";
 export default function Header() {
     return (
         <header>
-        <h1><Link className="home" href="/">GamesPlay</Link></h1>
+        <h1><Link className="home" to="/">GamesPlay</Link></h1>
         <nav>
-            <Link href="/games">All games</Link>
+            <Link to="/games">All games</Link>
             <div id="user">
-                <Link href="/games/create">Create Game</Link>
-                <Link href="/logout">Logout</Link>
+                <Link to="/games/create">Create Game</Link>
+                <Link to="/logout">Logout</Link>
             </div>
             <div id="guest">
-                <Link href="/login">Login</Link>
-                <Link href="/register">Register</Link>
+                <Link to="/login">Login</Link>
+                <Link to="/register">Register</Link>
             </div>
         </nav>
     </header>

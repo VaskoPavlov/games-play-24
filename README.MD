@@ -12,6 +12,6 @@ SoftUni React Project (workshop)
 ## 2. Router
  - [x] Install react-router-dom
  - [x] Setup react-router-dom
- - [ ] Add routes in App.jsx
- - [ ] Add link in the navigarion
+ - [x] Add routes in App.jsx
+ - [x] Add link in the navigarion
 
